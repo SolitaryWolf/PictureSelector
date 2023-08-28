@@ -4,7 +4,6 @@
   <groupId>com.github.SolitaryWolf</groupId>
   <artifactId>PictureSelector</artifactId>
   <version>1.0.2</version>
-  <packaging>aar</packaging>
   <name>PictureSelector</name>
   <description>PictureSelector Fix Android 13</description>
   <licenses>
