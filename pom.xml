@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.SolitaryWolf</groupId>
   <artifactId>PictureSelector</artifactId>
   <version>1.0.2</version>
-  <name>PictureSelector</name>
-  <description>PictureSelector Fix Android 13</description>
-  <licenses>
-    <license>
-      <name>Apache-2.0 license</name>
-      <url>https://opensource.org/licenses/Apache-2.0-license </url>
-    </license>
-  </licenses>
-  <developers>
-    <developer>
-      <id>mavenUsername</id>
-      <name>mavenUsername</name>
-      <email>datvu.it@gmail.com</email>
-    </developer>
-  </developers>
   <dependencies>
     <dependency>
       <groupId>androidx.appcompat</groupId>
