@@ -8,7 +8,6 @@
   <packaging>aar</packaging>
   <name>PictureSelector</name>
   <description>PictureSelector Fix Android 13</description>
-  <url>https://github.com/SolitaryWolf/PictureSelector</url>
   <licenses>
     <license>
       <name>Apache-2.0 license</name>
@@ -22,11 +21,6 @@
       <email>datvu.it@gmail.com</email>
     </developer>
   </developers>
-  <scm>
-    <connection>scm:git:https://github.com/SolitaryWolf/PictureSelector</connection>
-    <developerConnection>scm:git:https://github.com/SolitaryWolf/PictureSelector</developerConnection>
-    <url>https://github.com/SolitaryWolf/PictureSelector</url>
-  </scm>
   <dependencies>
     <dependency>
       <groupId>androidx.appcompat</groupId>
